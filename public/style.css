@@ -1,0 +1,106 @@
+.titolo1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+#navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #989ae9;
+}
+#navbar a {
+    display: flex;
+    padding: 10px;
+    color: #500b4c;
+}
+#Pulsanti {
+    display: flex;
+    justify-content: center;
+}
+#Inscriviti {
+    display: flex;
+    margin: 5px;
+}
+#Accedi {
+    display: flex;
+    margin: 5px;
+
+}
+.navbar-ricerca {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+/* ----------------------------- */
+.immagine_sfondo_ecommerce {
+    background-image: url(../risorse/img/stringa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 8%;
+    text-align: center;
+    margin-top: 10px;
+}
+.card-box {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+    flex-wrap: wrap;
+}
+.card {
+    margin: 3%;
+    text-align: center;
+}
+/* --------------------- */
+.cat-pdt {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+h3 {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+h5 {
+    color: red;
+}
+#Card-P {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+    flex-wrap: wrap;
+}
+#Card-2P {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+    flex-wrap: wrap;
+}
+/* div foother */
+.Foother-div {
+    display: flex;
+    justify-content: flex-end;
+    background-color: grey;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* pagina Acccesso al sito*/
+#titolo-Accedi {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+#Form-registrati {
+    justify-content: center;
+    margin-top: 5%;
+    margin-block-end: 3%;
+}
+#Titolo-Registrati {
+    justify-content: center;
+    color: red;
+    display: flex;
+    margin-top: 3%;
+    font-size: 50px;
+}
